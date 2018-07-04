@@ -3,3 +3,5 @@
 ################################################################################
 
 /src/Mehran.TaxiFarePrediction/.vs/Mehran.TaxiFarePrediction/v15
+/src/Mehran.TaxiFarePrediction/Mehran.TaxiFarePrediction/obj
+/src/Mehran.TaxiFarePrediction/Mehran.TaxiFarePrediction/bin/Debug/netcoreapp2.1
